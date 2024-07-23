@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408476104665",
+    "project_id": "flicky-dd502",
+    "storage_bucket": "flicky-dd502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408476104665:android:155c02a85e1b9036874bc8",
+        "android_client_info": {
+          "package_name": "com.example.device_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNRvroB-UtaZqniLoxpXFi8cDnLRobpD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
